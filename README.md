@@ -69,6 +69,6 @@ In this project I wanted to make some changes to practice some logic issues and 
 
 ## 😎 Author
 
-* **Heorhii Kanir**  - [@silviajcn](https://github.com/heorhiikanir)
+* **Heorhii Kanir**  - [@heorhiikanir](https://github.com/heorhiikanir)
 
     [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
