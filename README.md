@@ -21,10 +21,6 @@ In this project I wanted to make some changes to practice some logic issues and 
 - Routes for the shopping cart and for the detail of the selected product.
 - I used a JSON file containing the products, instead of the Platzi API. This allowed me to see a more complete detail of each product with more information.
 
-## 🖱️ Visit the app here: 
-
-https://shopi-app.netlify.app/
-
 ## 📁 Project:
 
 - React
@@ -73,7 +69,6 @@ https://shopi-app.netlify.app/
 
 ## 😎 Author
 
-* **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
-* **My portfolio** - [My portfolio](https://silviajcn.vercel.app/)
+* **Heorhii Kanir**  - [@silviajcn](https://github.com/heorhiikanir)
 
     [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
