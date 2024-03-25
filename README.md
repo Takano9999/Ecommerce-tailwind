@@ -44,7 +44,7 @@ In this project I wanted to make some changes to practice some logic issues and 
 ## ⚙️ Installation
 
 * Clone the latest code on the master branch
-    * ```git clone https://github.com/silviajcn/Ecommerce-tailwind.git```
+    * ```git clone https://github.com/Takano9999/Ecommerce-tailwind.git```
 * Install dependencies
     * ```npm install```
 * Run the web server!
@@ -69,6 +69,6 @@ In this project I wanted to make some changes to practice some logic issues and 
 
 ## 😎 Author
 
-* **Heorhii Kanir**  - [@heorhiikanir](https://github.com/heorhiikanir)
+* **Heorhii Kanir**  - [@TakanoKenji](https://github.com/Takano9999)
 
     [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
